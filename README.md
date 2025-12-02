@@ -32,9 +32,9 @@ Implement a **Bank Account Management System** in Python.
 ## 📋 Menu Layout
 Your program’s menu should appear as follows:
 
-### 1 Open a new account 
-### 2 Deposit money into your account 
-### 3 Withdraw money from your account 
-### 4 Add interests to your account 
-### 5 Get the current balance of your account 
-### 6 Quit
+**1 Open a new account** 
+**2 Deposit money into your account**
+**3 Withdraw money from your account** 
+**4 Add interests to your account** 
+**5 Get the current balance of your account** 
+**6 Quit**
