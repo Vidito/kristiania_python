@@ -2,6 +2,7 @@
 
 This repository was created as part of the **Python final exam tasks**.  
 It contains a collaborative Google Colab notebook where the contributors worked together on the code.
+It also contains the Streamlit app that can be accessed via...
 
 ## 📂 Contents
 - `FinishedCode.ipynb` — Google Colab file used for collaboration and coding tasks.
