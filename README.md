@@ -6,6 +6,8 @@
 
 ## 📂 Contents
 - `FinishedCode.ipynb` — Google Colab file used for collaboration and coding tasks.
+- `app.py` - Containing the code that uses Streamlit for the user interface
+- `requirements.txt` - Containing the libraries required for the code 
 
 ## 👥 Contributors
 - **Vahid**
